@@ -5,6 +5,9 @@ game using canvas
 The aim of the game is to collect the Snitch coming from the right without hitting the building by moving Harry up and down.
 
 
+
+
+
 game start
 
 ![1](https://user-images.githubusercontent.com/93085071/215300581-dee0f07d-f5d9-44e6-93d5-67f7dd59d6e2.jpeg)
